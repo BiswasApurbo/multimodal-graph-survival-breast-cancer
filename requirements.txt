@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+scikit-learn>=1.9
+scikit-survival>=0.28
+lifelines>=0.30
+xgboost
+torch>=2.14
+torch_geometric>=2.8
+matplotlib
+networkx

@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Multimodal Graph-Based Survival Learning for Breast Cancer Prognosis: code and results"
+version: 1.0.0
+date-released: 2026-11-23
+license: MIT
+authors:
+  - family-names: Momo
+    given-names: Morzia
+  - family-names: Biswas
+    given-names: Apurbo
+  - family-names: Tasnim
+    given-names: Sumaiya
+  - family-names: Tabassum
+    given-names: Insia
+  - family-names: Sultan
+    given-names: Tofayet
+  - family-names: Mridha
+    given-names: M.F.
+  - family-names: Islam
+    given-names: Md. Rakibul
+keywords:
+  - survival analysis
+  - graph neural networks
+  - breast cancer
+  - multimodal learning
+  - METABRIC
+  - TCGA
